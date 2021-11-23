@@ -32,7 +32,7 @@ def party1_al(data_path, args, cat_thre=50, num_thre=0.5):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     host = "localhost"
     try:
-        s.connect((host, 8905))  # 尝试连接p2
+        s.connect((host, 8905))
     except Exception:
         print('[!] Server not found or not open')
         sys.exit()
@@ -62,7 +62,7 @@ def party1_al(data_path, args, cat_thre=50, num_thre=0.5):
     max_size = 15000
 
     # recv detected error
-    header_struct = s.recv(4)  # 收四个
+    header_struct = s.recv(4)
     unpack_res = struct.unpack('i', header_struct)
     need_recv_size = unpack_res[0]
     recv = b""
@@ -129,7 +129,7 @@ def party2_al(data_path, args):
     s.listen(5)
     print("listening...")
     conn, addr = s.accept()
-    print('[+] Connected with', addr)  # 连接成功
+    print('[+] Connected with', addr) 
 
     max_size = 15000
 
@@ -156,7 +156,7 @@ def party2_al(data_path, args):
     unsample_index = pickle.loads(recv)
 
     ##  recv sample private data
-    header_struct = conn.recv(4)  # 收四个
+    header_struct = conn.recv(4)
     unpack_res = struct.unpack('i', header_struct)
     need_recv_size = unpack_res[0]
     recv = b""
