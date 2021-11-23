@@ -8,8 +8,7 @@ the federated learning and the manual labeling effort.
 * Python 3.7
 * PyTorch 1.7.1
 * torch_scatter 2.0.7
-* CUDA 10.1
-* 4 NVIDIA GeForce RTX2080ti GPU
+* NVIDIA GPU with cuda 10.1
 
 Please refer to the source code to install all required packages in Python
 
