@@ -1,0 +1,180 @@
+The Garlic project,"M. Tork Roth, M. Arya, L. Haas, M. Carey, W. Cody, R. Fagin, P. Schwarz, J. Thomas, E. Wimmers",International Conference on Management of Data,1996
+"Don't Be Lazy, Be Consistent: Postgres-R, A New Way to Implement Database Replication","Bettina Kemme, Gustavo Alonso",Very Large Data Bases,2000
+Object database evolution using separation of concerns,"Awais Rashid, Peter Sawyer",ACM SIGMOD Record ,2000
+Supply chain infrastructures: system integration and information sharing,"Michael O. Ball, Meng Ma, Louiqa Raschid, Zhengying Zhao",ACM SIGMOD Record ,2002
+ ,Michael Dertouzos,ACM SIGMOD Record ,2002
+ ,C. Mohan,International Conference on Management of Data,2002
+Modeling Skewed Distribution Using Multifractals and the `80-20' Law,"Christos Faloutsos, Yossi Matias, Abraham Silberschatz",Very Large Data Bases,1996
+Enhanced hypertext categorization using hyperlinks,"Soumen Chakrabarti, Byron Dom, Piotr Indyk",International Conference on Management of Data,1998
+A consensus glossary of temporal database concepts,"Curtis Dyreson, Fabio Grandi, Wolfgang K&#228;fer, Nick Kline, Nikos Lorentzos, Yannis Mitsopoulos, Angelo Montanari, Daniel Nonen, Elisa Peressi, Barbara Pernici, John F. Roddick, Nandlal L. Sarda, Maria Rita Scalas, Arie Segev, Richard Thomas Snodgrass, Mike D. Soo, Abdullah Tansel, Paolo Tiberio, Gio Wiederhold",ACM SIGMOD Record ,1994
+ ,"Eliseo Clementini, Paolino Di Felice",ACM SIGMOD Record ,2000
+Managing a DB2 Parallel Edition Database,Gilles Fecteau,Very Large Data Bases,1995
+Implementing data cubes efficiently,"Venky Harinarayan, Anand Rajaraman, Jeffrey D. Ullman",International Conference on Management of Data,1996
+WebFilter: A High-throughput XML-based Publish and Subscribe System,"Jo&#227;o Pereira, Fran&#231;oise Fabret, Hans-Arno Jacobsen, Fran&#231;ois Llirbat, Dennis Shasha",Very Large Data Bases,2001
+Copy detection mechanisms for digital documents,"Sergey Brin, James Davis, H&#233;ctor Garc&#237;a-Molina",International Conference on Management of Data,1995
+ ,"Flip Korn, S. Muthukrishnan",International Conference on Management of Data,2000
+A Single Pass Computing Engine for Interactive Analysis of VLDBs,Ted Mihalisin,Very Large Data Bases,1998
+LDAP directory services- just another database application? (tutorial session),"Shridhar Shukla, Anand Deshpande",International Conference on Management of Data,2000
+Distributed Processing over Stand-alone Systems and Applications,"Gustavo Alonso, Claus Hagen, Hans-J&#246;rg Schek, Markus Tresch",Very Large Data Bases,1997
+ ,"Margaret H. Dunham, Abdelsalam Helal",ACM SIGMOD Record ,1995
+Engineering federated information systems: report of EEFIS '99 workshop,"S. Conrad, W. Hasselbring, U. Hohenstein, R.-D. Kutsche, M. Roantree, G. Saake, F. Saltor",ACM SIGMOD Record ,1999
+On applying hash filters to improving the execution of multi-join queries,"Ming-Syan Chen, Hui-I Hsiao, Philip S. Yu",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1997
+Database design with common sense business reasoning and learning,"Veda C. Storey, Roger H. L. Chiang, Debabrata Dey, Robert C. Goldstein, Shankar Sudaresan",ACM Transactions on Database Systems (TODS) ,1997
+Coordinating backup/recovery and data consistency between database and file systems,"Suparna Bhattacharya, C. Mohan, Karen W. Brannon, Inderpal Narang, Hui-I Hsiao, Mahadevan Subramanian",International Conference on Management of Data,2002
+Query by humming: in action with its technology revealed,"Yunyue Zhu, Dennis Shasha, Xiaojian Zhao",International Conference on Management of Data,2003
+Infomaster: an information integration system,"Michael R. Genesereth, Arthur M. Keller, Oliver M. Duschka",International Conference on Management of Data,1997
+Integrating Reliable Memory in Databases,"Wee Teck Ng, Peter M. Chen",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1997
+Archiving scientific data,"Peter Buneman, Sanjeev Khanna, Keishi Tajima, Wang-Chiew Tan",International Conference on Management of Data,2002
+Parallel mining algorithms for generalized association rules with classification hierarchy,"Takahiko Shintani, Masaru Kitsuregawa",International Conference on Management of Data,1998
+Query evaluation in deductive databases with alternating fixpoint semantics,Weidong Chen,ACM Transactions on Database Systems (TODS) ,1995
+Web caching for database applications with Oracle Web Cache,"Jesse Anton, Lawrence Jacobs, Xiang Liu, Jordan Parker, Zheng Zeng, Tie Zhong",International Conference on Management of Data,2002
+Application of OODB and SGML techniques in text database: an electronic dictionary system,Jian Zhang,ACM SIGMOD Record ,1995
+"COMMIX: towards effective web information extraction, integration and query answering","Tengjiao Wang, Shiwei Tang, Dongqing Yang, Jun Gao, Yuqing Wu, Jian Pei",International Conference on Management of Data,2002
+ ,"Mauricio A. Hern&#225;ndez, Ren&#233;e J. Miller, Laura M. Haas",International Conference on Management of Data,2001
+ ,"Christoph Bussler, Dieter Fensel, Alexander Maedche",ACM SIGMOD Record ,2002
+Context-based prefetch - an optimization for implementing objects on relations,"Philip A. Bernstein, Shankar Pal, David Shutt",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,2000
+ ,"Thomas St&#246;hr, Erhard Rahm",Very Large Data Bases,2001
+Storage and Retrieval of XML Data Using Relational Databases,"Surajit Chaudhuri, Kyuseok Shim",Very Large Data Bases,2001
+ ,"Richard L. Cole, Goetz Graefe",International Conference on Management of Data,1994
+The hcC-tree: An Efficient Index Structure for Object Oriented Databases,"B. Sreenath, S. Seshadri",Very Large Data Bases,1994
+Data modeling of time-based media,"Simon Gibbs, Christian Breiteneder, Dennis Tsichritzis",International Conference on Management of Data,1994
+"The sensor spectrum: technology, trends, and requirements","Joseph M. Hellerstein, Wei Hong, Samuel R. Madden",ACM SIGMOD Record ,2003
+Intra-Transaction Parallelism in the Mapping of an Object Model to a Relational Multi-Processor System,"Michael Rys, Moira C. Norrie, Hans-J&#246;rg Schek",Very Large Data Bases,1996
+Multi-table joins through bitmapped join indices,"Patrick O'Neil, Goetz Graefe",ACM SIGMOD Record ,1995
+Efficient concurrency control for broadcast environments,"Jayavel Shanmugasundaram, Arvind Nithrakashyap, Rajendran Sivasankaran, Krithi Ramamritham",International Conference on Management of Data,1999
+GENESYS: a system for efficient spatial query processing,"Thomas Brinkhoff, Hans-Peter Kriegel, Ralf Schneider, Bernhard Seeger",International Conference on Management of Data,1994
+PLASTIC: reducing query optimization overheads through plan recycling,"Vibhuti S. Sengar, Jayant R. Haritsa",International Conference on Management of Data,2003
+InfoSleuth: agent-based semantic integration of information in open and dynamic environments,"R. J. Bayardo, Jr., W. Bohrer, R. Brice, A. Cichocki, J. Fowler, A. Helal, V. Kashyap, T. Ksiezyk, G. Martin, M. Nodine, M. Rashid, M. Rusinkiewicz, R. Shea, C. Unnikrishnan, A. Unruh, D. Woelk",International Conference on Management of Data,1997
+Mapping data in peer-to-peer systems: semantics and algorithmic issues,"Anastasios Kementsietsidis, Marcelo Arenas, Ren&#233;e J. Miller",International Conference on Management of Data,2003
+Database Management Systems and the Internet,Susan Malaika,Very Large Data Bases,1996
+Incremental updates of inverted lists for text document retrieval,"Anthony Tomasic, H&#233;ctor Garc&#237;a-Molina, Kurt Shoens",International Conference on Management of Data,1994
+ ,"Kelvin K. W. Law, John C. S. Lui, Leana Golubchik",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1999
+Describing semistructured data,Luca Cardelli,ACM SIGMOD Record ,2001
+ ,"Carole Goble, David De Roure",ACM SIGMOD Record ,2002
+Processing Object-Oriented Queries with Invertible Late Bound Functions,"Staffan Flodin, Tore Risch",Very Large Data Bases,1995
+ ,"Domenico Beneventano, Sonia Bergamaschi, Claudio Sartori",ACM Transactions on Database Systems (TODS) ,2003
+Improving access to environmental data using context information,"Anthony Tomasic, Eric Simon",ACM SIGMOD Record ,1997
+Clustering Techniques for Minimizing External Path Length,"A. A. Diwan, Sanjeeva Rane, S. Seshadri, S. Sudarshan",Very Large Data Bases,1996
+Efficient transparent application recovery in client-server information systems,"David Lomet, Gerhard Weikum",International Conference on Management of Data,1998
+An execution model for limited ambiguity rules and its application to derived data update,"I.-Min A. Chen, Richard Hull, Dennis McLeod",ACM Transactions on Database Systems (TODS) ,1995
+Incremental data structures and algorithms for dynamic query interfaces,"Egemen Tanin, Richard Beigel, Ben Shneiderman",ACM SIGMOD Record ,1996
+Design and implementation of RMP: a virtual electronic market place,"Susanne Boll, Wolfgang Klas, Bernard Battaglin",ACM SIGMOD Record ,1998
+ ,Anant Jhingran,ACM SIGMOD Record ,2000
+ ,Christos Faloutsos,International Conference on Management of Data,1995
+Optimization of queries with user-defined predicates,"Surajit Chaudhuri, Kyuseok Shim",ACM Transactions on Database Systems (TODS) ,1999
+Unpacking the semantics of source and usage to perform semantic reconciliation in large-scale information systems,"Ken Smith, Leo Obrst",ACM SIGMOD Record ,1999
+REVIEW: a real-time virtual walkthrough system,"L. Shou, C. H. Chionh, Z. Huang, Y. Ruan, Kian-Lee Tan",International Conference on Management of Data,2001
+Efficient and Effective Clustering Methods for Spatial Data Mining,"Raymond T. Ng, Jiawei Han",Very Large Data Bases,1994
+ ,"Daniel Barbar&#225;, Tomasz Imieli&#324;ski",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1995
+On the Discovery of Interesting Patterns in Association Rules,"Sridhar Ramaswamy, Sameer Mahajan, Abraham Silberschatz",Very Large Data Bases,1998
+Bottom-up computation of sparse and Iceberg CUBE,"Kevin Beyer, Raghu Ramakrishnan",International Conference on Management of Data,1999
+Research perspectives for time series management systems,"Werner Dreyer, Angelika Kotz Dittrich, Duri Schmidt",ACM SIGMOD Record ,1994
+Querying XML Views of Relational Data,"Jayavel Shanmugasundaram, Jerry Kiernan, Eugene J. Shekita, Catalina Fan, John Funderburk",Very Large Data Bases,2001
+Real-time database - similarity and resource scheduling,"Tei-Wei Kuo, Aloysius K. Mok",ACM SIGMOD Record ,1996
+The pyramid-technique: towards breaking the curse of dimensionality,"Stefan Berchtold, Christian B&#246;hm, Hans-Peter Kriegal",International Conference on Management of Data,1998
+"Shutdown, budget, and funding",Xiaolei Qian,ACM SIGMOD Record ,1996
+Erratum-A database model for object dynamics,"M. P. Papazoglou, B. J. Kr&#228;mer",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1997
+Stream processing of XPath queries with predicates,"Ashish Kumar Gupta, Dan Suciu",International Conference on Management of Data,2003
+DLFM: a transactional resource manager,"Hui-I Hsiao, Inderpal Narang",International Conference on Management of Data,2000
+Coloring Away Communication in Parallel Query Optimization,"Waqar Hasan, Rajeev Motwani",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1995
+A Requirement-Based Approach to Data Modeling and Re-Engineering,"Alice H. Muntz, Christian T. Ramiller",Very Large Data Bases,1994
+Optimizing disjunctive queries with expensive predicates,"A. Kemper, G. Moerkotte, K. Peithner, M. Steinbrunn",International Conference on Management of Data,1994
+Conceptual modeling and specification generation for B2B business processes based on ebXML,HyoungDo Kim,ACM SIGMOD Record ,2002
+Dynamic resource brokering for multi-user query execution,"Diane L. Davison, Goetz Graefe",International Conference on Management of Data,1995
+Developing an Indexing Scheme for XML Document Collection using the Oracle8i Extensibility Framework,"Seema Sundara, Ying Hu, Timothy Chorma, Nipun Agarwal, Jagannathan Srinivasan",Very Large Data Bases,2001
+XPERANTO: Middleware for Publishing Object-Relational Data as XML Documents,"Michael J. Carey, Jerry Kiernan, Jayavel Shanmugasundaram, Eugene J. Shekita, Subbu N. Subramanian",Very Large Data Bases,2000
+Formal aspects of concurrency control in long-duration transaction systems using the NT/PV model,"Henry F. Korth, Greg Speegle",ACM Transactions on Database Systems (TODS) ,1994
+XmdvTool: visual interactive data exploration and trend discovery of high-dimensional data sets,"Elke A. Rundensteiner, Matthew O. Ward, Jing Yang, Punit R. Doshi",International Conference on Management of Data,2002
+A brief survey of web data extraction tools,"Alberto H. F. Laender, Berthier A. Ribeiro-Neto, Altigran S. da Silva, Juliana S. Teixeira",ACM SIGMOD Record ,2002
+ ,Sanju K. Bansal,International Conference on Management of Data,1995
+Safely and Efficiently Updating References During On-line Reorganization,"Chendong Zou, Betty Salzberg",Very Large Data Bases,1998
+Querying ATSQL databases with temporal logic,"Jan Chomicki, David Toman, Michael H. B&#246;hlen",ACM Transactions on Database Systems (TODS) ,2001
+A system for watermarking relational databases,"Rakesh Agrawal, Peter J. Haas, Jerry Kiernan",International Conference on Management of Data,2003
+The Evolution of the Web and Implications for an Incremental Crawler,"Junghoo Cho, Hector Garcia-Molina",Very Large Data Bases,2000
+Ripple joins for online aggregation,"Peter J. Haas, Joseph M. Hellerstein",International Conference on Management of Data,1999
+Much ado about shared-nothing,"Michael G. Norman, Thomas Zurek, Peter Thanisch",ACM SIGMOD Record ,1996
+ ,"Changzhou Wang, X. Sean Wang",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,2001
+Storing semistructured data with STORED,"Alin Deutsch, Mary Fernandez, Dan Suciu",International Conference on Management of Data,1999
+Declarative updates of relational databases,Weidong Chen,ACM Transactions on Database Systems (TODS) ,1995
+A Transaction Replication Scheme for a Replicated Database with Node Autonomy,"Ada Wai-Chee Fu, David Wai-Lok Cheung",Very Large Data Bases,1994
+Using Versions in Update Transactions: Application to Integrity Checking,"Fran&#231;ois Llirbat, Eric Simon, Dimitri Tombroff",Very Large Data Bases,1997
+ ,"Narayanan Krishnakumar, Arthur J. Bernstein",ACM Transactions on Database Systems (TODS) ,1994
+A Data Warehousing Architecture for Enabling Service Provisioning Process,Yannis Kotidis,Very Large Data Bases,2001
+PREDATOR: an OR-DBMS with enhanced data types,"Praveen Seshadri, Mark Paskin",International Conference on Management of Data,1997
+The role of B2B engines in B2B integration architectures,Christoph Bussler,ACM SIGMOD Record ,2002
+MineSet(tm): A System for High-End Data Mining and Visualization,,Very Large Data Bases,1996
+SchemaSQL - A Language for Interoperability in Relational Multi-Database Systems,"Laks V. S. Lakshmanan, Fereidoon Sadri, Iyer N. Subramanian",Very Large Data Bases,1996
+Cost Models DO Matter: Providing Cost Information for Diverse Data Sources in a Federated System,"Mary Tork Roth, Fatma Ozcan, Laura M. Haas",Very Large Data Bases,1999
+Rule languages and internal algebras for rule-based optimizers,"Mitch Cherniack, Stanley B. Zdonik",International Conference on Management of Data,1996
+Estimating alphanumeric selectivity in the presence of wildcards,"P. Krishnan, Jeffrey Scott Vitter, Bala Iyer",International Conference on Management of Data,1996
+ ,"Lionel Brunie, Harald Kosch",ACM SIGMOD Record ,1996
+METU object-oriented DBMS,"Asuman Dogac, Budak Arpinar, Cem Evrendilek, Cetin Ozkan, Ilker Altintas, Ilker Durusoy, Mehmet Altinel, Tansel Okay, Yuksel Saygin",International Conference on Management of Data,1994
+ ,"Mikael Berndtsson, J&#246;rgen Hansson",ACM SIGMOD Record ,1996
+The query by image content (QBIC) system,"Jonathan Ashley, Myron Flickner, James Hafner, Denis Lee, Wayne Niblack, Dragutin Petkovic",International Conference on Management of Data,1995
+Estimating compilation time of a query optimizer,"Ihab F. Ilyas, Jun Rao, Guy Lohman, Dengfeng Gao, Eileen Lin",International Conference on Management of Data,2003
+DB2 Query Parallelism: Staging and Implementation,Yun Wang,Very Large Data Bases,1995
+Guest Editorial,Alon Y. Halevy,The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,2002
+ ,"Michael Doherty, Richard Hull, Mohammed Rupawalla",International Conference on Management of Data,1996
+Enhancing database correctness: a statistical approach,"Wen-Chi Hou, Zhongyang Zhang",International Conference on Management of Data,1995
+DBSim: a simulation tool for predicting database performance,"Mark Lefler, Mark Stokrp, Craig Wong",International Conference on Management of Data,1996
+Supporting efficient multimedia database exploration,"Wen-Syan Li, K.Sel&#231;uk Candan, Kyoji Hirata, Yoshinori Hara",Very Large Data Bases,2001
+What Happens During a Join? Dissecting CPU and Memory Optimization Effects,"Stefan Manegold, Peter A. Boncz, Martin L. Kersten",Very Large Data Bases,2000
+Dynamic Pipeline Scheduling for Improving Interactive Query Performance,"Tolga Urhan, Michael J. Franklin",Very Large Data Bases,2001
+ ,"Edwin M. Knorr, Raymond T. Ng",Very Large Data Bases,1999
+ARIES/CSA: a method for database recovery in client-server architectures,"C. Mohan, Inderpal Narang",International Conference on Management of Data,1994
+Decision Tables: Scalable Classification Exploring RDBMS Capabilities,"Hongjun Lu, Hongyan Liu",Very Large Data Bases,2000
+DBLearn: a system prototype for knowledge discovery in relational databases,"Jiawei Han, Yongjian Fu, Yue Huang, Yandong Cai, Nick Cercone",International Conference on Management of Data,1994
+Clustering categorical data: an approach based on dynamical systems,"David Gibson, Jon Kleinberg, Prabhakar Raghavan",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,2000
+Special issue on spatial database systems,H. J. Schek,The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1994
+Relaxed transaction processing,"Munindar P. Singh, Christine Tomlinson, Darrell Woelk",International Conference on Management of Data,1994
+BeSS: storage support for interactive visualization systems,"A. Biliris, T. A. Funkhouser, W. O'Connell, E. Panagos",International Conference on Management of Data,1996
+Anatomy of a native XML base management system,"T. Fiebig, S. Helmer, C.-C. Kanne, G. Moerkotte, J. Neumann, R. Schiele, T. Westmann",Very Large Data Bases,2002
+Delivering presentations from multimedia servers,"Nevzat Hurkan Balkir, Gultekin Ozsoyoglu",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1998
+Combinatorial pattern discovery for scientific data: some preliminary results,"Jason Tsong-Li Wang, Gung-Wei Chirn, Thomas G. Marr, Bruce Shapiro, Dennis Shasha, Kaizhong Zhang",International Conference on Management of Data,1994
+Combining multi-visual features for efficient indexing in a large image database,"Anne H. H. Ngu, Quan Z. Sheng, Du Q. Huynh, Ron Lei",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,2001
+Rainbow: Distributed Database System for Classroom Education and Experimental Research,"Abdelsalam Helal, Hua Li",Very Large Data Bases,2000
+Distributing a search tree among a growing number of processors,"Brigitte Kr&#246;ll, Peter Widmayer",International Conference on Management of Data,1994
+Optimizing object queries using an effective calculus,"Leonidas Fegaras, David Maier",ACM Transactions on Database Systems (TODS) ,2000
+Unix RDBMS: the next generation what are the Unix relational-database vendors doing to survive in the next generation of client/server environments,Bill Rosenblatt,ACM SIGMOD Record ,1994
+Record-boundary discovery in Web documents,"D. W. Embley, Y. Jiang, Y.-K. Ng",International Conference on Management of Data,1999
+Implementation of Two Semantic Query Optimization Techniques in DB2 Universal Database,"Qi Cheng, Jarek Gryz, Fred Koo, T. Y. Cliff Leung, Linqi Liu, Xiaoyan Qian, K. Bernhard Schiefer",Very Large Data Bases,1999
+Efficient Incremental Garbage Collection for Client-Server Object Database Systems,"Laurent Amsaleg, Michael J. Franklin, Olivier Gruber",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1995
+Analyzing Quantitative Databases: Image is Everything,"Amihood Amir, Reuven Kashi, Nathan S. Netanyahu",Very Large Data Bases,2001
+XMill: an efficient compressor for XML data,"Hartmut Liefke, Dan Suciu",International Conference on Management of Data,2000
+ ,"Erhard Rahm, Robert Marek",Very Large Data Bases,1995
+"Ubiquitous, self-tuning, scalable servers",Peter Spiro,International Conference on Management of Data,1998
+Rondo: a programming platform for generic model management,"Sergey Melnik, Erhard Rahm, Philip A. Bernstein",International Conference on Management of Data,2003
+DEVise: integrated querying and visual exploration of large datasets,"M. Livny, R. Ramakrishnan, K. Beyer, G. Chen, D. Donjerkovic, S. Lawande, J. Myllymaki, K. Wenger",International Conference on Management of Data,1997
+3D geographic network displays,"Kenneth C. Cox, Stephen G. Eick, Taosong He",ACM SIGMOD Record ,1996
+Fast Nearest Neighbor Search in Medical Image Databases,"Flip Korn, Nikolaos Sidiropoulos, Christos Faloutsos, Eliot Siegel, Zenon Protopapas",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1996
+Dual-Buffering Strategies in Object Bases,"Alfons Kemper, Donald Kossmann",Very Large Data Bases,1994
+Performance tradeoffs for client-server query processing,"Michael J. Franklin, Bj&#246;rn Th&#243;r J&#243;nsson, Donald Kossmann",International Conference on Management of Data,1996
+On Efficiently Implementing SchemaSQL on an SQL Database System,"Laks V. S. Lakshmanan, Fereidoon Sadri, Subbu N. Subramanian",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1999
+ ,"Jos&#233; A. Blakeley, Dan Fishman, David Lomet, Michael Stonebraker",ACM SIGMOD Record ,1994
+A layered architecture for querying dynamic Web content,"Hasan Davulcu, Juliana Freire, Michael Kifer, I. V. Ramakrishnan",International Conference on Management of Data,1999
+Approximate join processing over data streams,"Abhinandan Das, Johannes Gehrke, Mirek Riedewald",International Conference on Management of Data,2003
+Semantic integration of environmental models for application to global information systems and decision-making,D. Scott Mackay,ACM SIGMOD Record ,1999
+Low-Cost Compensation-Based Query Processing,"&#216;ystein Gr&#248;vlen, Svein-Olaf Hvasshovd, &#216;ystein Torbj&#248;rnsen",Very Large Data Bases,1998
+Large Databases for Remote Sensing and GIS,A. R. Dasgupta,Very Large Data Bases,1996
+Reminiscences on influential papers,"Kenneth A. Ross, Theodore Johnson, Richard Thomas Snodgrass",ACM SIGMOD Record ,2002
+"A response to R. Camps' article Domains, relations and religious wars",C. J. Date,ACM SIGMOD Record ,1996
+From Data Independence to Knowledge Independence: An on-going Story,Laurent Vieille,Very Large Data Bases,1998
+A hypertext query language for images,Li Yang,ACM SIGMOD Record ,1994
+SQL multimedia and application packages (SQL/MM),"Jim Melton, Andrew Eisenberg",ACM SIGMOD Record ,2001
+ ,"Sarabjot S. Anand, David A. Bell, John G. Hughes",Very Large Data Bases,1994
+Heuristic and randomized optimization for the join ordering problem,"Michael Steinbrunn, Guido Moerkotte, Alfons Kemper",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,1997
+Agent-based semantic interoperability in infosleuth,"Jerry Fowler, Brad Perry, Marian Nodine, Bruce Bargmeyer",ACM SIGMOD Record ,1999
+Clustering by pattern similarity in large data sets,"Haixun Wang, Wei Wang, Jiong Yang, Philip S. Yu",International Conference on Management of Data,2002
+Challenges for Global Information Systems,"Alon Y. Levy, Abraham Silberschatz, Divesh Srivastava, Maria Zemankova",Very Large Data Bases,1994
+PicoDBMS: Validation and Experience,"Nicolas Anciaux, Christophe Bobineau, Luc Bouganim, Philippe Pucheral, Patrick Valduriez",Very Large Data Bases,2001
+On Processing XML in LDAP,"Pedro Jos&#233; Marr&#243;n, Georg Lausen",Very Large Data Bases,2001
+Interviewing during a tight job market,"Zachary G. Ives, Qiong Luo",ACM SIGMOD Record ,2002
+Independence is good: dependency-based histogram synopses for high-dimensional data,"Amol Deshpande, Minos Garofalakis, Rajeev Rastogi",International Conference on Management of Data,2001
+Database techniques for the World-Wide Web: a survey,"Daniela Florescu, Alon Levy, Alberto Mendelzon",ACM SIGMOD Record ,1998
+prospector: a content-based multimedia server for massively parallel architectures,"S. Choo, W. O'Connell, G. Linerman, H. Chen, K. Ganapathy, A. Biliris, E. Panagos, D. Schrader",International Conference on Management of Data,1996
+ ,"Jayavel Shanmugasundaram, Eugene J. Shekita, Rimon Barr, Michael J. Carey, Bruce G. Lindsay, Hamid Pirahesh, Berthold Reinwald",Very Large Data Bases,2000
+ ,"Weifa Liang, Maria E. Orlowska, Jeffrey X. Yu",The VLDB Journal &mdash; The International Journal on Very Large Data Bases ,2000
+Static analysis techniques for predicting the behavior of active database rules,"Alexander Aiken, Joseph M. Hellerstein, Jennifer Widom",ACM Transactions on Database Systems (TODS) ,1995
+Microsoft.com: a high-scale data management and transaction processing solution,Sherri Kennamer,International Conference on Management of Data,1998
+ ,"Ramana Yerneni, Chen Li, Hector Garcia-Molina, Jeffrey Ullman",International Conference on Management of Data,1999
+Simultaneous optimization and evaluation of multiple dimensional queries,"Yihong Zhao, Prasad M. Deshpande, Jeffrey F. Naughton, Amit Shukla",International Conference on Management of Data,1998
